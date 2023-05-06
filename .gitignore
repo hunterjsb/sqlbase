@@ -93,3 +93,4 @@ _cgo_export.*
 *_test.go
 *.test
 *.test.exe
+/dump.rdb
