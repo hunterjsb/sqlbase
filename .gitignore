@@ -1,0 +1,95 @@
+/.env
+
+# Binaries, executables, and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output directories
+/bin/
+/obj/
+
+# Go build artifacts
+*.o
+*.a
+*.out
+*.swp
+*.swo
+
+# Dependency directories
+/vendor/
+/Godeps/
+
+# IDE files
+.idea/
+*.iml
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.dll
+*.bat
+*.sh
+*.swf
+*.apk
+
+# Cache files
+*.pyc
+*.hpc
+*.pch
+*.cgo1.go
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+# Test files
+*_test.go
+*.test
+*.test.exe
